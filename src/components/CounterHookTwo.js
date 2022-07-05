@@ -9,8 +9,6 @@ function CounterHookTwo() {
 			setCount(prevCount => prevCount + 1)
 		}
 	}
-
-
   return (
     <>
 			Count: {count}
